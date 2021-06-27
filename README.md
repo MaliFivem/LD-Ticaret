@@ -1,0 +1,2 @@
+# LD-Ticaret
+ticaret
